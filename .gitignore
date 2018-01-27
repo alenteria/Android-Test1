@@ -41,4 +41,5 @@ project.properties
 ##Gradle-based build
 .gradle
 mac-cli/
+mac-cli
 build/
